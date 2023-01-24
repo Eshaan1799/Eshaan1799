@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
- I'm Eshaan, a data-engineer currently employed in Tata Consultancy Services India.My passion for data lies in the infinite potential and possibilities it holds . I  majorly contribure in  building efficient and scalable data pipelines which enables the client to derive valuable buisness insights .
+ I'm Eshaan, a data-engineer currently employed in Tata Consultancy Services India.My passion for data lies in the infinite potential and possibilities it holds . I  majorly contribure in  building efficient and scalable data pipelines which enables the client to derive valuable business insights .
 
 Apart from my official duties. I have built  three  data-engineering projects in order to sharpen my skills and scale my learning.
 
